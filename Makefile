@@ -1,7 +1,7 @@
 PROJECT = elysium
 
 DEPS = eper epocxy seestar vbisect
-dep_epocxy  = git https://github.com/duomark/epocxy 0.9.8
+dep_epocxy  = git https://github.com/duomark/epocxy 0.9.8g
 dep_seestar = git https://github.com/tigertext/seestar 0.1.1
 dep_vbisect = git https://github.com/jaynel/vbisect 0.1.2
 V = 0
